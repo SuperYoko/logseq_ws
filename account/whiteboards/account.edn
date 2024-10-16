@@ -1,0 +1,129 @@
+{:blocks (
+{:block/content "微软\n\nfoxsummer@outlook.com\n<summerand25>\n\n邮箱\n475539756@qq.com"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "670f5acd-f0f3-4fd9-9adb-6eac5bbaa6b2"}
+:block/parent 
+{:block/uuid #uuid "670f5acd-f0f3-4fd9-9adb-6eac5bbaa6b2"}
+:block/properties 
+{}
+:block/uuid #uuid "670f5ad7-fb13-4739-b080-a632fc9a766f"} 
+{:block/created-at 1729060339669
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "670f5ad7-fb13-4739-b080-a632fc9a766f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [232 185]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8a16e710-8b86-11ef-83ce-9f79e8dfb04a"
+:noFill false
+:point [240 152]
+:parentId "670f5acd-f0f3-4fd9-9adb-6eac5bbaa6b2"
+:collapsedHeight 0
+:nonce 1729059543833}}
+:block/updated-at 1729060339669} 
+{:block/content "qq\n475539756\nqqandsummer25\n17621642734"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "670f5ad7-fb13-4739-b080-a632fc9a766f"}
+:block/parent 
+{:block/uuid #uuid "670f5acd-f0f3-4fd9-9adb-6eac5bbaa6b2"}
+:block/properties 
+{}
+:block/uuid #uuid "670f5db2-9e2f-48fe-92a5-778c5eb87844"} 
+{:block/created-at 1729062986453
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "670f5db2-9e2f-48fe-92a5-778c5eb87844"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [176 113]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3d4bb6c0-8b88-11ef-83ce-9f79e8dfb04a"
+:noFill false
+:point [576 80]
+:parentId "670f5acd-f0f3-4fd9-9adb-6eac5bbaa6b2"
+:collapsedHeight 0
+:nonce 1729060276571}}
+:block/updated-at 1729062986453} 
+{:block/content "lipeng.yk@gmail.com"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "670f5db2-9e2f-48fe-92a5-778c5eb87844"}
+:block/parent 
+{:block/uuid #uuid "670f5acd-f0f3-4fd9-9adb-6eac5bbaa6b2"}
+:block/properties 
+{}
+:block/uuid #uuid "670f5f53-57e8-4bb0-8536-a57a6252d46b"} 
+{:block/created-at 1729062992101
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "670f5f53-57e8-4bb0-8536-a57a6252d46b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [192 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "35efc0a0-8b89-11ef-83ce-9f79e8dfb04a"
+:noFill false
+:point [576 256]
+:parentId "670f5acd-f0f3-4fd9-9adb-6eac5bbaa6b2"
+:collapsedHeight 0
+:nonce 1729060691339}}
+:block/updated-at 1729062992101})
+:pages (
+{:block/uuid #uuid "670f5acd-f0f3-4fd9-9adb-6eac5bbaa6b2"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "670f5acd-f0f3-4fd9-9adb-6eac5bbaa6b2"
+:name "account"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("8a16e710-8b86-11ef-83ce-9f79e8dfb04a" "3d4bb6c0-8b88-11ef-83ce-9f79e8dfb04a" "35efc0a0-8b89-11ef-83ce-9f79e8dfb04a")}}
+:block/updated-at 1729062992100
+:block/created-at 1729059533034
+:block/type "whiteboard"
+:block/name "account"
+:block/original-name "account"})}
